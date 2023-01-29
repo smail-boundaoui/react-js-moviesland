@@ -2,7 +2,7 @@
   "name": "moviesland",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://smail-boundaoui.github.io",
+  "homepage": "https://github.com/smail-boundaoui/moviesland.github.io.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
